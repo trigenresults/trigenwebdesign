@@ -1,0 +1,11 @@
+to clone a repository repository-url
+> git clone repository-url
+
+to add all files
+> git add .
+
+to commit changes
+> git commit
+
+to save onto github
+> git push
